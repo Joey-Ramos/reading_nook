@@ -1,7 +1,7 @@
 # The Reading Nook (Project 2)
 
 ## Github URL
-https://github.com/asaldana1108/project-2
+https://github.com/Joey-Ramos/reading_nook
 
 ## Walkthrough Video
 View deployed website [here.](https://thereadingnook.herokuapp.com/)
@@ -33,5 +33,5 @@ MIT
 
 ## Questions
 For any additional questions, here is my contact information. 
-* [GitHub] (github.com/asaldana1108)
-* [Email] (asaldana1108@gmail.com)
+* [GitHub] (github.com/Joey-Ramos)
+* [Email] (jramos1202@gmail.com)
